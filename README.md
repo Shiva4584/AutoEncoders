@@ -3,7 +3,7 @@ This repo consists of different types of autoencoders for data compression.
 <h1> Building a simple AutoEncoder </h1>
 <h3>What are autoencoders?</h3>
 
-![image.png](attachment:image.png)
+![download](https://user-images.githubusercontent.com/68855488/179143551-396f1b92-0ab2-465e-b873-52ec0665cce5.png)
 
 "Autoencoding" is a data compression algorithm where the compression and decompression functions are :
 > * Autoencoders are data-specific, which means that they will only be able to compress data similar to what they have been trained on.
