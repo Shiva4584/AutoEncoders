@@ -9,3 +9,8 @@ This repo consists of different types of autoencoders for data compression.
 > * Autoencoders are data-specific, which means that they will only be able to compress data similar to what they have been trained on.
 > * Autoencoders are lossy, which means that the decompressed outputs will be degraded compared to the original inputs.
 > * Autoencoders are learned automatically from data examples, which is a useful property: it means that it is easy to train specialized instances of the algorithm that will perform well on a specific type of input. 
+
+<h5> Original vs Reconstructed </h5>
+
+![download](https://user-images.githubusercontent.com/68855488/179143810-f11e6142-9f87-45a3-9f51-f76e2b20218a.png)
+
