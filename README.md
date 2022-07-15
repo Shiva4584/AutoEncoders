@@ -28,7 +28,10 @@ We do not have to limit ourselves to a single layer as encoder or decoder, we co
 <h1>Convolutional AutoEncoder</h1>
 Since our inputs are images, it makes sense to use convolutional neural networks (convnets) as encoders and decoders. In practical settings, autoencoders applied to images are always convolutional autoencoders --they simply perform much better.
 
+
 <h4> Original vs Reconstructed </h4>
+
+![download](https://user-images.githubusercontent.com/68855488/179144933-4e8e6e7d-7f2f-4b0a-a6d5-8154b2d53a88.png)
 
 ![download](https://user-images.githubusercontent.com/68855488/179144361-b14395e6-10d4-407d-8d98-3b24f0c0f140.png)
 
