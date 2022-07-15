@@ -18,8 +18,13 @@ This repo consists of different types of autoencoders for data compression.
 We do not have to limit ourselves to a single layer as encoder or decoder, we could instead use a stack of layers.
 
 <h5> Original vs Reconstructed </h5>
+
 ![download](https://user-images.githubusercontent.com/68855488/179144032-72404a09-48fd-4145-9056-06eb523b272f.png)
 
 <h1>Convolutional AutoEncoder</h1>
+Since our inputs are images, it makes sense to use convolutional neural networks (convnets) as encoders and decoders. In practical settings, autoencoders applied to images are always convolutional autoencoders --they simply perform much better.
 
+<h5> Original vs Reconstructed </h5>
+
+![download](https://user-images.githubusercontent.com/68855488/179144361-b14395e6-10d4-407d-8d98-3b24f0c0f140.png)
 
